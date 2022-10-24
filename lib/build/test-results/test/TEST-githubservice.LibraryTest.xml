@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="githubservice.LibraryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-24T16:59:57" hostname="snps-tdg6azkirr8e" time="0.01">
+  <properties/>
+  <testcase name="someLibraryMethodReturnsTrue()" classname="githubservice.LibraryTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
